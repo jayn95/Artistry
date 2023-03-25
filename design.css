@@ -67,7 +67,7 @@ h1::before{
 .scroller .item{
     position: relative;
     /* margin-left: 10%; */
-    /* text-align: center; */
+    text-align: center;
 }
 
 .item img{
