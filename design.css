@@ -84,7 +84,7 @@ h1::before{
 
 .scroller .box{
     position: relative;
-    object-fit: cover;
+    /* object-fit: cover; */
     width: 100px;
     height: 100px;
     position: center;
